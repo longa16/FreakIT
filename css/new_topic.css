@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.dybo { 
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 110px;
+}
+
+.-form h2 {
+    color: #004AAD;
+    text-align: center;
+}
+
+.identify {
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 700px;
+    
+}
+
+label {
+    color: #004AAD;
+    display: inline-block;
+    width:100px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.space{
+    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    width: 70%;
+    padding: 12px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    background-color: #ecf0f1;
+    transition: border-color 0.3s ease;
+}
+
+#text {
+    width: 500px;
+    padding: 15px;
+    border: 1px solid #004AAD;
+    border-radius: 8px;
+    font-size: 16px; 
+    transition: border-color 0.3s;
+}
+
+#send {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #004AAD;
+    border-radius: 4px;
+    color: #004AAD;
+    background-color: #fff;
+    transition: background-color 0.3s, color 0.3s;
+    margin-left: 20px;
+ }
+    
+    
+#send:hover {
+    background-color: #004AAD;
+    color: #fff;
+}
+
+.emoji {
+    word-spacing: 50px;
+}
+
+#emoji-content{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 700px;
+    
+}

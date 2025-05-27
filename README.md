@@ -1,7 +1,7 @@
 # 🎃 FreakIT – Halloween Store Forum
 
 **FreakIT** is a spooky-themed 🕸️ **discussion forum** designed for a Halloween costume shop.  
-Customers and visitors can interact, ask questions, leave reviews, and share their terrifyingly good costume ideas! 🧙‍♀️🧛‍♂️👻
+Customers and visitors can interact, ask questions, leave reviews, and share their terrifyingly good costume ideas! 
 
 Built in **PHP** with a **MySQL database**, the app runs locally on **WampServer**.
 
@@ -9,21 +9,21 @@ Built in **PHP** with a **MySQL database**, the app runs locally on **WampServer
 
 ## 🕹️ Features
 
-- 📝 Post and reply to messages on various Halloween topics
-- 🧑‍🤝‍🧑 User registration and login system
-- 🔐 Session management and basic access control
-- 📅 Timestamped messages
-- 🎭 Admin panel to moderate the forum
+-  Post and reply to messages on various Halloween topics
+-  User registration and login system
+-  Session management and basic access control
+-  Timestamped messages
+-  Admin panel to moderate the forum
 
 ---
 
 ## 🧱 Technologies Used
 
-- 🐘 PHP (vanilla)
-- 🐬 MySQL
-- 🧰 HTML5 / CSS3
-- 🧪 JavaScript (optional enhancements)
-- ⚙️ Apache (via WampServer)
+-  PHP (vanilla)
+-  MySQL
+-  HTML5 / CSS3
+-  JavaScript (optional enhancements)
+-  Apache (via WampServer)
 
 ---
 

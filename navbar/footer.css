@@ -1,0 +1,44 @@
+body {
+  margin: 0px;
+}
+
+footer {
+    background-color: #004AAD;
+    color: #fff;
+    padding: 30px 0;
+   
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-content {
+    flex-basis: 45%;
+  }
+  
+  h3 {
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li a {
+    color: #fff;
+    text-decoration: none;
+
+  }
+  
+  .bottom-footer {
+    background-color: #176ee0;
+    text-align: center;
+    padding: 10px 0;
+  }

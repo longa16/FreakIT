@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+#dybo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 100px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.lien{
+    color: black;
+}
+
+h2{
+    color: #004AAD;
+}
+
+.topic{
+    box-shadow: 0 0 20px #767878;
+    transition: transform 0.3s;
+    overflow: hidden;
+    border-radius: 10px;
+    padding-left: 8px;
+    margin-bottom: 15px;
+    color: black;
+    padding-bottom: 5px;
+    width: 90%;
+    margin-left: 65px;
+}
+
+.topic:hover {
+    transform: scale(1.02);
+    }
+
+
+#Delete, #Close {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #004AAD;
+    border-radius: 4px;
+    color: #004AAD;
+    background-color: #fff;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+#Delete:hover, #Close:hover {
+    background-color: #004AAD;
+    color: #fff;
+}

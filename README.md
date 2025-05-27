@@ -42,8 +42,8 @@ Built in **PHP** with a **MySQL database**, the app runs locally on **WampServer
 2. 🛠️ Create the database:
 
 - Open phpMyAdmin via http://localhost/phpmyadmin
-- Create a database named: freakit_forum
-- Import the provided freakit_forum.sql file to set up the tables
+- Create a database named: freakit_bd
+- Import the provided freakit_bd.sql file to set up the tables
 
 3. ⚙️ Configure database connection:
 Open config/db.php and set your database credentials:
@@ -51,8 +51,8 @@ Open config/db.php and set your database credentials:
     ```text
     $host = 'localhost';
     $user = 'root';
-    $pass = '';
-    $dbname = 'freakit_forum';
+    $mdp = 'ROOT';
+    $dtb = 'students';
 
 4. 🌐 Launch the forum:
    http://localhost/FreakIT
